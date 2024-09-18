@@ -12,7 +12,7 @@
   
 - 📫 Go connect with me through [LinkedIn Profile](https://www.linkedin.com/in/rabeah-basheer/)
 
-- 📚 Check Out my simple [Portfolio](https://raboooiii.github.io/Raboooiii-Portfolio/)
+- 📚 Check Out my simple [Portfolio](http://raboooiii.portfolio.io/)
   
 - <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=raboooiii&show_icons=true"/>
 
