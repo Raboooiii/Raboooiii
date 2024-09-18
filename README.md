@@ -8,8 +8,8 @@
   
 - 💻 Currently working on some cool projects for academics and pass time.
   
-- 💬 Want to know me better, DM me [Insta Profile](instagram.com/realrabeah/)
+- 💬 Want to know me better, DM me [Insta Profile](https://www.instagram.com/realrabeah/)
   
-- 📫 Go connect with me through [LinkedIn Profile](linkedin.com/in/rabeah-basheer/)
+- 📫 Go connect with me through [LinkedIn Profile](https://www.linkedin.com/in/rabeah-basheer/)
   
 - <img alt="my stats" align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=raboooiii&show_icons=true"/> <img alt="top langs" align="left" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=raboooiii&layout=compact"/>
