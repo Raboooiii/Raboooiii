@@ -1,10 +1,10 @@
 ## Hi there, I'm Rabeah Basheer 👋, but you can call me Raboooiii
 
-- 💸 Passionate about Finance, Marketing and FrontEnd Designing.
+- 💸 Passionate about Business, Web Development and Software Development
   
 - 🎓 Studying IMSc at Department of Computer Science, CUSAT.
   
-- 🧑‍🎓 Learning about HTML, css, javascript and 🤔whatever for web development
+- 🧑‍🎓 Learning about HTML, CSS, Javascript and 🤔whatever for web development
   
 - 💻 Currently working on some cool projects for academics and pass time.
   
